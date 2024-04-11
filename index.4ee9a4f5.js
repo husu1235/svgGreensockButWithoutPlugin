@@ -620,7 +620,7 @@ for(var i = 0; i < lines.length; i++){
         },
         ease: "none",
         scrollTrigger: {
-            scrub: 1
+            scrub: 0
         }
     });
 }
